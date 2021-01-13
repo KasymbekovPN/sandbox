@@ -6,26 +6,6 @@ import org.kpn.util.Order;
 @DisplayName("Simple responsibility principe")
 public class SimpleResponsibilityPrincipe {
 
-    //<
-//    public static class Order{
-//
-//        private boolean valid = true;
-//        private String name = "someName";
-//        private String email = "some@email.com";
-//
-//        public boolean isValid(){
-//            return valid;
-//        }
-//
-//        public String getName() {
-//            return name;
-//        }
-//
-//        public String getEmail() {
-//            return email;
-//        }
-//    }
-
     /*
         several responsibilities
     */
