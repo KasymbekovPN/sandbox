@@ -11,6 +11,7 @@
     <modules>
         <module>stream</module>
         <module>solid</module>
+        <module>grasp</module>
     </modules>
 
     <properties>
