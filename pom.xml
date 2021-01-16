@@ -12,6 +12,7 @@
         <module>stream</module>
         <module>solid</module>
         <module>grasp</module>
+        <module>patterns</module>
     </modules>
 
     <properties>

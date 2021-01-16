@@ -12,7 +12,7 @@ import java.util.List;
     Information must being processed where it storage
  */
 @DisplayName("GRASP: information expert")
-public class n2_InformationExpert {
+public class n1_InformationExpert {
 
     public static class WrongClient{
 
