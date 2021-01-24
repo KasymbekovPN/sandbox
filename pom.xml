@@ -13,6 +13,7 @@
         <module>solid</module>
         <module>grasp</module>
         <module>patterns</module>
+        <module>multiThread</module>
     </modules>
 
     <properties>
