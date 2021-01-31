@@ -1,0 +1,2 @@
+https://javarush.ru/groups/posts/2111-threadom-java-ne-isportishjh--chastjh-vi---k-barjheru
+https://www.baeldung.com/java-phaser
