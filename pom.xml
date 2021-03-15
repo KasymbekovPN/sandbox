@@ -15,6 +15,32 @@
         <module>patterns</module>
         <module>multiThread</module>
         <module>collections</module>
+        <module>spring5-ch4-simple-boot</module>
+        <module>spring5-ch5-agentAOPDemo</module>
+        <module>spring5-ch5-simpleBeforeAdvice</module>
+        <module>spring5-ch5-securityAdvice</module>
+        <module>spring5-ch5-afterAdviceDemo</module>
+        <module>spring5-ch5-profileingDemo</module>
+<!--        <module>spring5-simpleThrowsAdvice</module>-->
+        <module>spring5-ch5-staticMethodMatcherPointcut</module>
+        <module>spring5-ch5-dynamicPointcutDemo</module>
+        <module>spring5-ch5-namePointcutDemo</module>
+<!--        <module>spring5-regexpPointcutDEmo</module>-->
+        <module>spring5-ch5-aspectjexpPointcut</module>
+        <module>spring5-ch5-annotationPointcutDemo</module>
+        <module>spring5-ch5-proxyPerfTest</module>
+<!--        <module>sppring5-ch5-controlFlowDemo</module>-->
+        <module>spring5-ch5-controlFlowDemo</module>
+        <module>spring5-ch5-composablePointcutExample</module>
+        <module>spring5-ch5-introductionDemo</module>
+        <module>spring5-ch5-proxyFactoryBeanDemo</module>
+        <module>spring5-ch5-introductionConfigDemo</module>
+        <module>spring5-ch5-aopNamespaceDemo</module>
+        <module>spring5-ch5-plainSingerDao</module>
+        <module>spring5-ch6-dbConfigTest</module>
+        <module>spring5-ch6-jdbcEmbedded</module>
+        <module>spring5-ch6-annotationJdbcTest</module>
+        <module>spring5-ch7-hibernateDemo</module>
     </modules>
 
     <properties>
