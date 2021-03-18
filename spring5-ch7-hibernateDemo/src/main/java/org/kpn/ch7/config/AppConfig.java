@@ -31,7 +31,7 @@ public class AppConfig {
             return builder.setType(EmbeddedDatabaseType.H2)
                     .addScripts(
                             "classpath:sql/schema.sql",
-                            "classpath:sql/test-date.sql"
+                            "classpath:sql/test-data.sql"
                     )
                     .build();
         } catch (Exception ex){
