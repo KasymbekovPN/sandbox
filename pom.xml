@@ -41,6 +41,7 @@
         <module>spring5-ch6-jdbcEmbedded</module>
         <module>spring5-ch6-annotationJdbcTest</module>
         <module>spring5-ch7-hibernateDemo</module>
+        <module>spring5-ch7-hibernateCrud</module>
     </modules>
 
     <properties>
