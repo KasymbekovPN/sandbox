@@ -42,6 +42,58 @@
         <module>spring5-ch6-annotationJdbcTest</module>
         <module>spring5-ch7-hibernateDemo</module>
         <module>spring5-ch7-hibernateCrud</module>
+        <module>spring5-ch8-jpaCrud</module>
+        <module>spring5-ch8-jpaCriteria</module>
+        <module>spring5-ch8-springDataJpa</module>
+        <module>spring5-ch8-springDataAlt</module>
+        <module>spring5-ch8-springDataJpaAudit</module>
+        <module>spring5-ch8-hibernateEvents</module>
+        <module>spring5-ch8-bootJpa</module>
+        <module>spring5-ch9-transactions-annotation</module>
+        <module>spring5-ch9-base-dao</module>
+        <module>spring5-ch9-transactions-xml</module>
+        <module>spring5-ch9-transactions-programmatic</module>
+        <module>spring5-ch10-property-editor</module>
+        <module>spring5-ch10-converter</module>
+        <module>spring5-ch10-converter-multiple-types</module>
+        <module>spring5-ch10-custom-formatter</module>
+        <module>spring5-ch10-validator</module>
+        <module>spring5-ch10-jsr349</module>
+        <module>spring5-ch11-base-task</module>
+        <module>spring5-ch11-scheduled-task</module>
+        <module>spring5-ch11-scheduled-task-annotation</module>
+        <module>spring5-ch11-async-task</module>
+        <module>spring5-ch11-task-executor</module>
+        <module>spring5-ch12-base-remote</module>
+        <module>spring5-ch12-spring-invoke</module>
+        <module>spring5-ch12-artemis</module>
+        <module>spring5-ch12-boot-jms</module>
+        <module>spring5-ch12-rest</module>
+        <module>spring5-ch12-boot-rest</module>
+        <module>spring5-ch12-amqp-rpc</module>
+        <module>spring5-ch12-boot-amqp</module>
+        <module>spring5-ch13-base-test</module>
+        <module>spring5-ch13-mvc-unit-test</module>
+        <module>spring5-ch13-integration-test</module>
+        <module>spring5-ch13-junit5-test</module>
+        <module>spring5-ch14-base-groovy</module>
+        <module>spring5-ch14-spript-engines</module>
+        <module>spring5-ch14-groovy-spring</module>
+        <module>spring5-ch15-boot-jmx</module>
+<!--        <module>spring5-ch16-singer-webapp-base</module>-->
+        <module>spring5-ch16-singer-webapp-xml</module>
+        <module>spring5-ch16-singer-webapp-boot</module>
+        <module>spring5-ch16-singer-webapp-jcfg</module>
+        <module>spring5-ch17-wenbsocket-api</module>
+        <module>spring5-ch17-websocket-api-cfg</module>
+        <module>spring5-ch17-sockjs</module>
+        <module>spring5-ch17-sockjs-cfg</module>
+        <module>spring5-ch17-stomp</module>
+        <module>spring5-ch18-batch</module>
+        <module>spring5-ch18-batch-cfg</module>
+        <module>spring5-ch18-batch-jsr352</module>
+        <module>spring5-ch18-bacth-boot</module>
+        <module>spring5-ch18-integration</module>
     </modules>
 
     <properties>
