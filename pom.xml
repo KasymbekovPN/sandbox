@@ -94,6 +94,7 @@
         <module>spring5-ch18-batch-jsr352</module>
         <module>spring5-ch18-bacth-boot</module>
         <module>spring5-ch18-integration</module>
+        <module>spring5-ch18-webflux</module>
     </modules>
 
     <properties>
